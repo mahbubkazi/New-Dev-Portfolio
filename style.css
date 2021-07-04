@@ -17,7 +17,7 @@ section {
   padding: 2%;
 }
 .half-width img {
-  width: 100%;
+  width: 80%;
 }
 .link-button {
   text-decoration: none;
@@ -31,9 +31,12 @@ section {
   background-image: url(top-banner.png);
   background-repeat: no-repeat;
 }
-.dream-girl {
+.dream-girl{
   background-image: url(dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
   padding: 5%;
+}
+.our-dreams img{
+width: 80%;
 }
