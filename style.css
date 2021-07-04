@@ -15,10 +15,12 @@ section {
 .half-width {
   width: 50%;
   padding: 2%;
+  text-align: justify;
 }
 .half-width img {
   width: 80%;
 }
+
 .link-button {
   text-decoration: none;
   background-image: linear-gradient(orange, tomato);
@@ -31,12 +33,17 @@ section {
   background-image: url(top-banner.png);
   background-repeat: no-repeat;
 }
-.dream-girl{
-  background-image: url(dream-bg.png);
-  background-repeat: no-repeat;
-  background-position: right;
-  padding: 5%;
+.our-dreams{
+background-image: url(dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+text-align: justify;
 }
-.our-dreams img{
-width: 80%;
+.half-border{
+  border: 2px solid orangered;
+  width: 80%;
+  padding: 0 13px;
+}
+.h1{
+  margin: 20px 0;
 }
