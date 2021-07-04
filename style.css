@@ -71,15 +71,18 @@ text-align: justify;
   box-shadow: 10px 10px 40px gray;
   text-align: justify;
 }
+.bigining-item p{
+  padding-right: 10px;
+}
 #development-id{
   border-left: 7px solid;
   border-image: linear-gradient (blue, magenta);
   border-image-slice: 1;
 }
 #full-development{
-  border-left: 7px gray;
+  border-left: 7px solid;
   border-image: linear-gradient (cyan, green);
-  border-image-slice: 1;
+  border-image-slice: 3;
 }
 footer p{
   text-align: center;
