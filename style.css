@@ -76,13 +76,13 @@ text-align: justify;
 }
 #development-id{
   border-left: 7px solid;
-  border-image: linear-gradient (blue, magenta);
+  border-image: linear-gradient(blue, skyblue);
   border-image-slice: 1;
 }
 #full-development{
   border-left: 7px solid;
-  border-image: linear-gradient (cyan, green);
-  border-image-slice: 3;
+  border-image: linear-gradient(cyan, green);
+  border-image-slice: 1;
 }
 footer p{
   text-align: center;
